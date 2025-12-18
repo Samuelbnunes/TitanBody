@@ -17,6 +17,8 @@
 
 O **TitanBody** é uma aplicação web desenvolvida para transformar sua jornada de treino. Utilizando a poderosa API do Google Gemini, o app atua como um coach inteligente, criando treinos personalizados, acompanhando seu progresso e oferecendo feedback em tempo real.
 
+Veja mais pelo Google AI Studio: https://ai.studio/apps/drive/1e2BaynHVka28YtXLydLjegyR9xXwEZBE
+
 ## 🚀 Funcionalidades Principais
 
 *   **🧠 AI Coach Integrado:** Receba orientações, ajustes de treino e motivação de uma IA treinada para fisiculturismo.
@@ -83,3 +85,4 @@ Siga os passos abaixo para executar o projeto em sua máquina:
 <div align="center">
   <p>Desenvolvido com 💪 e 🤖</p>
 </div>
+
